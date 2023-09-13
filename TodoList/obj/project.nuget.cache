@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yO4PAyEdqXgU8XZ59Ca1Sr4iOtoZObm8JknkGPGZ86KOwDxGmZRNWfVImSjwg5kKVhJ4CDoAhy5d2SYpOYgPaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PhidelistOluochOmuya\\source\\repos\\TodoList\\TodoList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PhidelistOluochOmuya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\PhidelistOluochOmuya\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\PhidelistOluochOmuya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\PhidelistOluochOmuya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

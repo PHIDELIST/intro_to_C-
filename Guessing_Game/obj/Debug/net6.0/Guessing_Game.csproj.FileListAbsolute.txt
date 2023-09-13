@@ -1,0 +1,14 @@
+C:\Users\PhidelistOluochOmuya\source\repos\Guessing_Game\bin\Debug\net6.0\Guessing_Game.exe
+C:\Users\PhidelistOluochOmuya\source\repos\Guessing_Game\bin\Debug\net6.0\Guessing_Game.deps.json
+C:\Users\PhidelistOluochOmuya\source\repos\Guessing_Game\bin\Debug\net6.0\Guessing_Game.runtimeconfig.json
+C:\Users\PhidelistOluochOmuya\source\repos\Guessing_Game\bin\Debug\net6.0\Guessing_Game.dll
+C:\Users\PhidelistOluochOmuya\source\repos\Guessing_Game\bin\Debug\net6.0\Guessing_Game.pdb
+C:\Users\PhidelistOluochOmuya\source\repos\Guessing_Game\obj\Debug\net6.0\Guessing_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PhidelistOluochOmuya\source\repos\Guessing_Game\obj\Debug\net6.0\Guessing_Game.AssemblyInfoInputs.cache
+C:\Users\PhidelistOluochOmuya\source\repos\Guessing_Game\obj\Debug\net6.0\Guessing_Game.AssemblyInfo.cs
+C:\Users\PhidelistOluochOmuya\source\repos\Guessing_Game\obj\Debug\net6.0\Guessing_Game.csproj.CoreCompileInputs.cache
+C:\Users\PhidelistOluochOmuya\source\repos\Guessing_Game\obj\Debug\net6.0\Guessing_Game.dll
+C:\Users\PhidelistOluochOmuya\source\repos\Guessing_Game\obj\Debug\net6.0\refint\Guessing_Game.dll
+C:\Users\PhidelistOluochOmuya\source\repos\Guessing_Game\obj\Debug\net6.0\Guessing_Game.pdb
+C:\Users\PhidelistOluochOmuya\source\repos\Guessing_Game\obj\Debug\net6.0\Guessing_Game.genruntimeconfig.cache
+C:\Users\PhidelistOluochOmuya\source\repos\Guessing_Game\obj\Debug\net6.0\ref\Guessing_Game.dll
